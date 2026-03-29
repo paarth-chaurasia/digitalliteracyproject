@@ -1,4 +1,4 @@
-art A: Case Study 
+Part A: Case Study 
 
 Topic: UPI QR Code Scam
 
